@@ -1,5 +1,5 @@
-# Encrypted by K-fuscator
-# Github- https://github.com/KasRoudra/k-fuscator
+# Encrypted- MR-ZIHAD
+# Github- https://github.com/MR-ZIHAD
 
 RaFi0RaFi0 = ""
 RaFi0RaFi0 += "\x49\x79\x4d\x6a\x49\x79\x4d\x6a\x49\x79"
