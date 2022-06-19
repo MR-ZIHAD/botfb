@@ -7,12 +7,12 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 
 
 # [ Installation ]
-```
+
 $ apt update && apt upgrade
 $ apt install git python2
 $ git clone https://github.com/MR-ZIHAD/botfb
 $ cd botfb
-```
+
 
 # [ Setup ]
 ```
@@ -22,9 +22,6 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 bot.py
 ```
-# [ Screenshot ]
-<img src="https://ibb.co/PZKgvPg"/>
-
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
